@@ -29,7 +29,7 @@ evaluation, and prediction using Python and scikit-learn.
 ## 🚀 Getting Started
 
 1. Clone the repository:
-   git clone https://github.com/your-username/email-spam-detection.git
+   git clone https://github.com/1-suresh/email-spam-detection.git
    cd email-spam-detection
    
 2. Install dependencies:
