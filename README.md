@@ -21,9 +21,11 @@ evaluation, and prediction using Python and scikit-learn.
 ## 📂 Project Structure
 
 📁 EMAIL_SPAM_DETECTION_WITH_MACHINE_LEARNING
+
 │
 
 ├── EMAIL_SPAM_DETECTION_WITH_MACHINE_LEARNING.ipynb
+
 └── README.md
 
 
