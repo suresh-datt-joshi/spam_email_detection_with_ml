@@ -23,7 +23,6 @@ evaluation, and prediction using Python and scikit-learn.
 📁 EMAIL_SPAM_DETECTION_WITH_MACHINE_LEARNING
 
 │
-
 ├── EMAIL_SPAM_DETECTION_WITH_MACHINE_LEARNING.ipynb
 
 └── README.md
