@@ -20,18 +20,17 @@ evaluation, and prediction using Python and scikit-learn.
 
 ## 📂 Project Structure
 
-📁 EMAIL_SPAM_DETECTION_WITH_MACHINE_LEARNING
+📁 EMAIL_SPAM_DETECTION_WITH_MACHINE_LEARNING  <br />
+├── 📓 EMAIL_SPAM_DETECTION_WITH_MACHINE_LEARNING.ipynb <br />
+└── 📄 README.md  <br />
 
-│ EMAIL_SPAM_DETECTION_WITH_MACHINE_LEARNING.ipynb
-
-└── README.md
 
 
 ## 🚀 Getting Started
 
 1. Clone the repository:
-   git clone https://github.com/1-suresh/email-spam-detection.git
-   cd email-spam-detection
+   git clone https://github.com/suresh-datt-joshi/spam_email_detection_with_ml.git
+   cd spam_email_detection_with_ml
    
 2. Install dependencies:
    pip install -r requirements.txt
